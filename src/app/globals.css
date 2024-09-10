@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  /* background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb)); */
+}
+
+/* Hide default Swiper navigation icons */
+.swiper-button-prev:after,
+.swiper-button-next:after {
+  display: none; /* Menyembunyikan ikon navigasi default dari Swiper */
+}
+
+/* Menetapkan warna putih pada ikon navigasi kustom */
+.swiper-button-prev svg,
+.swiper-button-next svg {
+  color: #ffffff; /* Warna putih untuk ikon navigasi */
+  stroke: #ffffff; /* Warna putih untuk ikon navigasi jika menggunakan SVG */
+}
+
+/* Menyesuaikan ukuran navigasi */
+.swiper-button-prev,
+.swiper-button-next {
+  width: 32px !important;
+  height: 32px !important;
+}
+
+.swiper-button-prev svg,
+.swiper-button-next svg {
+  width: 16px !important;
+  height: 16px !important;
+}
+
+/* Custom styles for Swiper pagination dots */
+.swiper-pagination-bullet {
+  background-color: rgba(29, 40, 53, 0.8) !important; /* Warna tidak aktif dengan transparansi lebih rendah */
+  width: 10px !important; /* Ukuran dot diperbesar */
+  height: 10px !important; /* Ukuran dot diperbesar */
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #ee4d2d !important; /* Warna aktif */
+  width: 10px !important; /* Ukuran dot diperbesar */
+  height: 10px !important; /* Ukuran dot diperbesar */
+}
+
+/* Ensure navigation is visible on hover */
+.group:hover .swiper-button-prev,
+.group:hover .swiper-button-next {
+  opacity: 1;
+}
+
+/* Mengurangi ukuran dan memastikan navigasi tidak terlalu besar */
+.swiper-button-prev,
+.swiper-button-next {
+  width: 32px !important;
+  height: 32px !important;
+}
+
+.swiper-button-prev svg,
+.swiper-button-next svg {
+  width: 16px !important;
+  height: 16px !important;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

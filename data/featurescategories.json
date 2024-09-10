@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Shopee Pilih Lokal",
+    "image_url": "https://cf.shopee.co.id/file/id-50009109-9e96a5687ef3d55c05426b33e702be61_xhdpi",
+    "alt_text": "Shopee Pilih Lokal"
+  },
+  {
+    "id": 2,
+    "title": "Shopee Mall",
+    "image_url": "https://cf.shopee.co.id/file/id-50009109-21067727429e50037f52d3bda8a8bcf6_xhdpi",
+    "alt_text": "Shopee Mall"
+  },
+  {
+    "id": 3,
+    "title": "Pulsa, Tagihan, dan Tiket",
+    "image_url": "https://cf.shopee.co.id/file/id-50009109-4f6225c6af9676bb98b6ef90b5eea2c1_xhdpi",
+    "alt_text": "Pulsa, Tagihan, dan Tiket"
+  },
+  {
+    "id": 4,
+    "title": "inFashion",
+    "image_url": "https://cf.shopee.co.id/file/id-50009109-bc0d988b6f0265726005d7516d275e34_xhdpi",
+    "alt_text": "inFashion"
+  },
+  {
+    "id": 5,
+    "title": "Shopee Supermarket",
+    "image_url": "https://cf.shopee.co.id/file/id-50009109-973424e34266b401880d7dcc2d40156d_xhdpi",
+    "alt_text": "Shopee Supermarket"
+  },
+  {
+    "id": 6,
+    "title": "Bayar Di Tempat",
+    "image_url": "https://cf.shopee.co.id/file/id-50009109-255620ed5cf93d74be3b408b274f1d39_xhdpi",
+    "alt_text": "Bayar Di Tempat"
+  },
+  {
+    "id": 7,
+    "title": "Termurah di Shopee",
+    "image_url": "https://cf.shopee.co.id/file/id-50009109-dde6b3b104fadc3e46a68b1e02956d30_xhdpi",
+    "alt_text": "Termurah di Shopee"
+  },
+  {
+    "id": 8,
+    "title": "Gratis Ongkir dan Voucher",
+    "image_url": "https://cf.shopee.co.id/file/id-50009109-dd50489812b1eb792c5cfae00a3b512a_xhdpi",
+    "alt_text": "Gratis Ongkir dan Voucher"
+  },
+  {
+    "id": 9,
+    "title": "Shopee Barokah",
+    "image_url": "https://cf.shopee.co.id/file/id-50009109-a2dfaca803ad1b0a86141f5374419f99_xhdpi",
+    "alt_text": "Shopee Barokah"
+  },
+  {
+    "id": 10,
+    "title": "Semua Promo",
+    "image_url": "https://cf.shopee.co.id/file/id-50009109-b26e4a6a1add042d828b58143fceda1a_xhdpi",
+    "alt_text": "Semua Promo"
+  }
+]

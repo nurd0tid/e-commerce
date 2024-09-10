@@ -1,0 +1,56 @@
+[
+  {
+    "id": "9b463113-b75e-4031-a09a-85d8c2ad2c13",
+    "name": "Headset Bluetooth",
+    "img": "https://down-id.img.susercontent.com/file/9c5d6c9c99492080184972e9f0b40681",
+    "sales": "88RB+",
+    "top": true,
+    "created_at": "2024-09-03T06:22:10.368839",
+    "updated_at": "2024-09-03T06:22:10.368855"
+  },
+  {
+    "id": "c27a78ac-4d8c-40b7-9ce4-fc1be5d84c93",
+    "name": "Mainan Lego",
+    "img": "https://down-id.img.susercontent.com/file/sg-11134201-7rbm2-lohqvlwdef9d03",
+    "sales": "321RB+",
+    "top": true,
+    "created_at": "2024-09-03T06:22:10.368944",
+    "updated_at": "2024-09-03T06:22:10.368957"
+  },
+  {
+    "id": "69d96633-f1d5-4ea3-96f7-f8b99de001aa",
+    "name": "Lip Cream",
+    "img": "https://down-id.img.susercontent.com/file/sg-11134201-7rbm2-lohqvlwdef9d03",
+    "sales": "343RB+",
+    "top": true,
+    "created_at": "2024-09-03T06:22:10.368997",
+    "updated_at": "2024-09-03T06:22:10.369000"
+  },
+  {
+    "id": "1e4e19a1-8434-473f-a82c-5ebac482df19",
+    "name": "Sunscreen",
+    "img": "https://down-id.img.susercontent.com/file/id-11134207-7qula-ljlfe6y6euy2ff",
+    "sales": "360RB+",
+    "top": true,
+    "created_at": "2024-09-03T06:22:10.369018",
+    "updated_at": "2024-09-03T06:22:10.369021"
+  },
+  {
+    "id": "8249dbb2-b610-484a-9b91-11a8d257a0f1",
+    "name": "Hijab Paris Premium",
+    "img": "https://down-id.img.susercontent.com/file/id-11134207-7qula-ljlfe6y6euy2ff",
+    "sales": "411RB+",
+    "top": true,
+    "created_at": "2024-09-03T06:22:10.369043",
+    "updated_at": "2024-09-03T06:22:10.369046"
+  },
+  {
+    "id": "6e21fcc7-62b2-4d28-b661-f1cd292f393e",
+    "name": "Hijab Bella Square",
+    "img": "https://down-id.img.susercontent.com/file/id-11134207-7quky-lieqi3rit31fa5",
+    "sales": "334RB+",
+    "top": true,
+    "created_at": "2024-09-03T06:22:10.369062",
+    "updated_at": "2024-09-03T06:22:10.369064"
+  }
+]

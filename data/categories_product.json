@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Headset",
+    "id": "555e259d-ef3b-420a-bcfb-d7143fea15b9"
+  },
+  {
+    "name": "Headset Wireless",
+    "id": "3e494cbd-6116-4d87-ba44-b0c6565a1802"
+  },
+  {
+    "name": "Wireless",
+    "id": "051c80b3-7756-4213-b6fb-da0628c825e9"
+  },
+  {
+    "name": "Headset Bluetooth",
+    "id": "88941a18-a20e-4841-9a70-e97c7d1ddee3"
+  },
+  {
+    "name": "Bluetooth",
+    "id": "e5fc2f5f-bb7a-40e7-bfa3-86474d62730c"
+  },
+  {
+    "name": "Speakers",
+    "id": "33860b41-5e04-45b0-b669-93aa28c9fd52"
+  },
+  {
+    "name": "Audio Accessories",
+    "id": "32724313-e947-4cc4-a7eb-58f134365006"
+  },
+  {
+    "name": "Gaming Accessories",
+    "id": "98d832bf-cfe7-474f-ad1f-11b1d917037c"
+  },
+  {
+    "name": "Earphones",
+    "id": "6e89ec72-1c67-40b5-abbf-e1ecfb3ca1f4"
+  },
+  {
+    "name": "Portable Audio",
+    "id": "225e4b8e-e691-4945-89b2-869a1cbc8c68"
+  },
+  {
+    "name": "Smart Devices",
+    "id": "01aa9268-a46a-40a8-8551-69f46aa11af9"
+  },
+  {
+    "name": "Karaoke Systems",
+    "id": "789daacd-5478-4509-8464-a7766898b448"
+  },
+  {
+    "name": "Tech Gadgets",
+    "id": "2328be83-c516-427e-8882-37990b709c89"
+  },
+  {
+    "name": "In Ear",
+    "id": "7265bfe2-aa44-442a-b001-2caa45988b74"
+  },
+  {
+    "name": "Charging Cables",
+    "id": "cf006b19-edd6-408b-9694-0011bb6d0e74"
+  },
+  {
+    "name": "Chargers",
+    "id": "02250adc-a38b-4afe-ae36-bed55df6ebc2"
+  },
+  {
+    "name": "USB Accessories",
+    "id": "f7f8f276-7c9e-4011-86bd-3a4e5154be19"
+  },
+  {
+    "name": "Home Audio",
+    "id": "ca983cc6-3433-4a80-a208-a8b5bc16c771"
+  },
+  {
+    "name": "Bluetooth Speakers",
+    "id": "4ee0a805-1885-4745-8716-f4cd7028fde0"
+  },
+  {
+    "name": "Smart Watches",
+    "id": "ea62a68a-065e-4b6a-b7f8-77c35afe4c9e"
+  },
+  {
+    "name": "Elektronik",
+    "id": "2883d879-fd93-4a8b-8fbb-3c57df0bc96e"
+  },
+  {
+    "name": "Komputer & Aksesories",
+    "id": "9f320295-7f93-4e27-a077-00ac78437552"
+  },
+  {
+    "name": "Handphone & Aksesories",
+    "id": "bb782a93-4018-454c-91f6-7d547b17500d"
+  },
+  {
+    "name": "Pakaian Pria",
+    "id": "ab57deaf-2112-40ef-8d7d-1a93e701b648"
+  },
+  {
+    "name": "Sepatu Pria",
+    "id": "154b800b-8a0f-4497-9ff4-d3f7481fce78"
+  },
+  {
+    "name": "Tas Pria",
+    "id": "9506842e-da8a-4c2f-bbd3-9ff1db902fd5"
+  },
+  {
+    "name": "Aksesoris Fashion",
+    "id": "32a67312-d4f9-4ca6-a203-9d4a3a4d1308"
+  },
+  {
+    "name": "Jam Tangan",
+    "id": "dd3dbb94-3164-45ed-a640-57911ceb21b6"
+  },
+  {
+    "name": "Kesehatan",
+    "id": "3352b662-1b5b-49ea-ad41-7a52cd4526b7"
+  },
+  {
+    "name": "Hobi & Koleksi",
+    "id": "9dd2ec15-ce6b-4fc8-8f08-4a2d3f7a4d71"
+  },
+  {
+    "name": "Makanan & Minuman",
+    "id": "57c7f300-1758-4217-96d3-b1b8c10db3ee"
+  },
+  {
+    "name": "Perawatan & Kecantikan",
+    "id": "cb0f66d3-076c-44fd-abcd-d58e540cca11"
+  },
+  {
+    "name": "Perlengkapan Rumah",
+    "id": "bfda3750-f371-48e6-b6e1-5fec0102bf61"
+  },
+  {
+    "name": "Pakaian Wanita",
+    "id": "cc715b63-6961-4ac7-83b4-3c126601e071"
+  },
+  {
+    "name": "Fashion Muslim",
+    "id": "88fad35f-10bb-4595-aab5-5b9ee13b33d5"
+  },
+  {
+    "name": "Fashion Bayi & Anak",
+    "id": "c98b9d37-011a-4896-a3a1-4ff40f2881d3"
+  },
+  {
+    "name": "Ibu & Bayi",
+    "id": "f83a0aa8-6a9d-4dd8-85b0-212cb91b2ed6"
+  },
+  {
+    "name": "Sepatu Wanita",
+    "id": "bc75d534-2974-4644-aba1-86bfb3912859"
+  },
+  {
+    "name": "Tas Wanita",
+    "id": "1f05076a-142b-4ee1-a97c-1e47aa4263ae"
+  },
+  {
+    "name": "Otomotif",
+    "id": "e78df318-b4aa-4aef-909c-68728db5dcc0"
+  },
+  {
+    "name": "Olahraga & Outdoor",
+    "id": "efe77c1b-19a5-44e3-a84f-0f797a0a21b7"
+  },
+  {
+    "name": "Souvenir & Perlengkapan Pesta",
+    "id": "34199545-fb4b-497d-8d1f-152655e10d2b"
+  },
+  {
+    "name": "Buku & Alat Tulis",
+    "id": "9436a089-d61c-48d3-9ef2-759f73e3b5f0"
+  },
+  {
+    "name": "Fotografi",
+    "id": "57663600-9457-4238-8b7c-d01480fadf40"
+  }
+]

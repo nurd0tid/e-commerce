@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "Slide 1",
+    "description": "Diskon besar di seluruh produk",
+    "image_url": "https://cf.shopee.co.id/file/id-11134258-7r992-lz4n8zy5ji9xf5_xxhdpi",
+    "link_url": "https://www.example.com/slide-1",
+    "position": 1,
+    "is_active": true,
+    "created_at": "2024-09-01T12:00:00Z",
+    "updated_at": "2024-09-01T12:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Slide 2",
+    "description": "Promo khusus hari ini",
+    "image_url": "https://cf.shopee.co.id/file/id-11134258-7r98u-lz4nkwoy4kdc59_xxhdpi",
+    "link_url": "https://www.example.com/slide-2",
+    "position": 2,
+    "is_active": true,
+    "created_at": "2024-09-02T12:00:00Z",
+    "updated_at": "2024-09-02T12:00:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Slide 3",
+    "description": "Flash Sale berlaku untuk semua kategori",
+    "image_url": "https://cf.shopee.co.id/file/id-11134258-7r98w-lz4n3i1p5a88b9_xxhdpi",
+    "link_url": "https://www.example.com/slide-3",
+    "position": 3,
+    "is_active": true,
+    "created_at": "2024-09-03T12:00:00Z",
+    "updated_at": "2024-09-03T12:00:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Slide 4",
+    "description": "Beli 1 gratis 1 untuk produk tertentu",
+    "image_url": "https://cf.shopee.co.id/file/id-11134258-7r98s-lz4o4nidxiorc5_xxhdpi",
+    "link_url": "https://www.example.com/slide-4",
+    "position": 4,
+    "is_active": true,
+    "created_at": "2024-09-04T12:00:00Z",
+    "updated_at": "2024-09-04T12:00:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Slide 5",
+    "description": "Voucher diskon tambahan untuk pengguna baru",
+    "image_url": "https://cf.shopee.co.id/file/id-11134258-7r98w-lz4qqy9u3upx3d_xxhdpi",
+    "link_url": "https://www.example.com/slide-5",
+    "position": 5,
+    "is_active": true,
+    "created_at": "2024-09-05T12:00:00Z",
+    "updated_at": "2024-09-05T12:00:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Slide 6",
+    "description": "Diskon hingga 50% untuk kategori fashion",
+    "image_url": "https://cf.shopee.co.id/file/id-11134258-7r98z-lz4qtoggfdm560_xxhdpi",
+    "link_url": "https://www.example.com/slide-6",
+    "position": 6,
+    "is_active": true,
+    "created_at": "2024-09-06T12:00:00Z",
+    "updated_at": "2024-09-06T12:00:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Slide 7",
+    "description": "Produk elektronik dengan harga terbaik",
+    "image_url": "https://cf.shopee.co.id/file/id-11134258-7r98x-lz4n62xf85dx58_xxhdpi",
+    "link_url": "https://www.example.com/slide-7",
+    "position": 7,
+    "is_active": true,
+    "created_at": "2024-09-07T12:00:00Z",
+    "updated_at": "2024-09-07T12:00:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Slide 8",
+    "description": "Nikmati promo besar untuk produk kecantikan",
+    "image_url": "https://cf.shopee.co.id/file/id-11134258-7r98u-lz4ndpd41wdce5_xxhdpi",
+    "link_url": "https://www.example.com/slide-8",
+    "position": 8,
+    "is_active": true,
+    "created_at": "2024-09-08T12:00:00Z",
+    "updated_at": "2024-09-08T12:00:00Z"
+  }
+]
